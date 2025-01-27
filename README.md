@@ -6,13 +6,4 @@ Desde hace unos meses he entrado en el mundo de la **programación** y del **an�
 
 Hasta ahora he trabajado con **C#**, **R** y **Python**, lo cual me ha servido para aprender a utilizar bases de datos, modificandolos, creando gráficos, estadística, etc.
 
-A continuación dejo una lista de los diferentes softwares que he utilizado hasta ahora:
-
-  - Anaconda
-  - Jupyter Notebook y Jupyter Lab
-  - Visual Studio 2022 y Visual Studio Code
-  - PostgreSQL
-  - RStudio
-  - Godot
-
 
